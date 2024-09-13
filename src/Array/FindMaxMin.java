@@ -1,5 +1,6 @@
 package Array;
 
+// Find the largest and smallest element of an array
 public class FindMaxMin {
 
     public static void findMaxMin(int[] arr) {

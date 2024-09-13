@@ -1,5 +1,6 @@
 package Array;
 
+// Find the two largest elements of an array
 public class FindTwoLargest {
 
     public static void findTwoLargest(int[] arr) {
